@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working on: ???<br><br>Currently learning: Focused on ongoing projects<br><br>Ask me about: Game-related development, systems, and design<br>
 
 
